@@ -1,4 +1,4 @@
-## A FULLY FUCTIONAL BACKEND SIDE OF A CLIENT-BASED RESTAURANT WEBSITE USING DJANGO REST FRAMEWORK(DRF) ##
+## A FULLY FUNCTIONAL BACKEND SIDE OF A CLIENT-BASED RESTAURANT WEBSITE USING DJANGO REST FRAMEWORK(DRF) ##
 
 This project is called Little-LemonDRF, it basically demonstrate how the backend side of liitle-Lemon restaurant website can be built using Django Rest Framework(DRF). The backend design using DRF was fully done by myself. Every part of this project shows the following fuctionalities below.
 
